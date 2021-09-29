@@ -520,3 +520,93 @@ Vernünftige Compiler sollten folgende Features besitzen:
   - schreibt Logs in Puffer, um I/O zu vermeiden
   - Daten können i.d.R. grafisch als Zeitdiagramm dargestellt werden
   - Vertreter: LTTng
+
+# Notes
+
+## Klausur
+
+- Klausur 1h
+- kurze Fragen, kurze Antworten
+- es werden keine konkreten Programmaufrufe gefragt, eher "welche Möglichkeiten hat man …"
+
+## gprof
+
+- gprof ist ein hybrider profiler
+
+## Qualitätssicherung
+
+- was gehört zur qualität?
+  - erfüllung der geforderten qualität
+  - fehlerfreiheit
+  - robustheit ("wehrt" sich gegen falsche eingaben, reagiert sinnvoll auf systemfehler, sauberes wiederaufsetzen nach stromausfall, sicherheit gegen angriffe etc.)
+  - stabilität: langzeitverhalten (programm sollte "ewig durchlaufen" können), hochlastverhalten (verhalten bei hoher/über-last), verhaltung bei großen datenmengen
+  - einhalter relevanter standards
+  - erfüllung rechtlicher vorgaben
+  - bedienbarkeit
+  - administrierbarkeit
+  - dokumentation und hilfe
+  - effizienz, performance und ressourcen-verbrauch (skalierbarkeit)
+  - zertifizierung
+
+### grundlegendes
+
+- fehler pro lines of code sind historisch gesehen ziemlich konstant, softwaregröße wächst exponentiell
+- "je später der fehler erkannt wird, umso teurer" $\rightarrow$ rule of ten
+  - für jeden schritt, der durchlaufen wird, bevor ein fehler erkannt wird, kostet es die firma das zehnfache
+  - findet der entwickler die fehler selbst, entfällt der "bürokratische overhead" (ticket anlegen etc.)
+- vorstufen in der entwicklung
+  - testbares design
+  - sinnvolles programmierhandbuch
+  - qualitätstools einsetzen
+  - defensive programmierung (parameter prüfen, asserts, etc...)
+  - code review (4 bis 6-Augen-Prinzip)
+- alles qualitäts-aktivitäten gehören dokumentiert, müssen wiederholbar/reproduzierbar sein
+- alles tools, testdaten etc. gehören eingecheckt
+- code coverage "wie viele prozent des codes werden durch tests erfasst"
+- bei schleifen: test für keinen, einen, mehrere durchläufe
+- test versus verifikation
+  - "tests können nur die anwesenheit von fehlern beweisen, nie deren abwesenheit"
+  - für absolute korrektheit ist ein mathematischer beweis notwendig
+  - verifikation = formaler beweis der programm-korrektheit
+  - dieser liefert meist auch sehr viel neue einsicht in das problem
+  - verifikation hat sich nie wirklich durchgesetzt (außer in seltenen akademischen oder extrem kritischen situationen)
+  - erfordert hohen aufwand / sehr hohe qualifikation erforderlich
+  - verifikation eines programms gilt als unlösbares problem / nicht automatisierbar
+  - blind gegen externe fehler und nicht spezifikationskonforme grundoperationen
+  - es wird nicht die reaktion auf falschen input etc. verifiziert
+  - verifikation kann den test nicht ersetzen
+  - teilaspekte können sinnvoll verifiziert werden, bspw. keine deadlocks bei parallem programm
+- black box test: ich kenne den code nicht beim testen
+- white box test: ich kenne den code beim testen
+- unit tests
+  - test mit stubs
+    - in der praxis zu aufwendig
+  - bottom-up-test
+    - alle tests nach dem ersten fehlschlag sind nicht mehr aussagekräftig
+- automatische test
+  - automatische ausführung
+  - eintragung in eine datenbank
+  - manche dinge lassen sich schwer automatisch testen
+- "im händischen test sollten der intelligenteste und der unfähigste mitarbeiter der firma eingesetzt werden!"
+- manuelle tests haben einen konstant hohen dauer-aufwand
+- automatische tests haben einen sehr hohen anfangs-aufwand aber einen geringen dauer-aufwand
+- große firmen überbewerten meist die aussagekraft und wichtigkeit automatischer tests und richten zu wenig aufmerksamkeit auf manuelle tests
+- regressionstests: behobene fehler sollen immer wieder getestet werden (testen, dass fehler nicht wieder eingebaut wird)
+- doku und hilfe sollten getestet werden
+- installations-, upgrade und administrationstests
+- installationsoptionen testen
+- platztest
+- deinstalliert sich die software restlos?
+- statische analyse-tools
+  - tools, die programmrichtlininen prüfen
+  - tools, die potentiell fehlerhafte / gefährliche programmstrukturen prüfen
+  - tools, die code-metriken ermitteln
+  - tools zur globalen struktur-analyse
+- bei ernsthafter umsetzung: 5 lines of test pro line of code
+- bei isolierten tests dürfen NUR die zu testende funktion aus dem produktivcode verwendet werden!
+  - verwendung von stubs oder mock-objekte
+  - seher hoher aufwand
+  - stubs und mocks sind ungetesteter code, kann auch fehler enthalten
+  - divergenz vom verhalten des realcodes (bspw. bei nachträglicher spezifikationsänderung) $\rightarrow$ test läuft durch, realfall versagt!
+- bottom up tests
+  - problem: testreihenfolge bei zyklischen abhängigkeiten
