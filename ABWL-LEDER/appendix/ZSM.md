@@ -107,7 +107,7 @@
 
 > Modularisierungskonzept unter Betrachtung des Kapitalflusses $\rightarrow$ baut Maß der Selbständigkeit (*Dezentralität*) auf
 
-- Investment-Center: Entscheidungskompetenzen für Investitionen und Desinvestitionen (RoI)
-- Profit-Center: Aufgabe der Gewinnerzielung
-- Cost-Center: Buchhaltung, Verwaltung, ... (notwendige Kosten $\rightarrow$ Kostenminimierung)
-- Revenue-center: Verantwortung für die zu erzielenden Umsatzerlöse
+- **Investment-Center:** Entscheidungskompetenzen für Investitionen und Desinvestitionen (RoI)
+- **Profit-Center:** Aufgabe der Gewinnerzielung
+- **Cost-Center:** Buchhaltung, Verwaltung, ... (notwendige Kosten $\rightarrow$ Kostenminimierung)
+- **Revenue-Center:** Verantwortung für die zu erzielenden Umsatzerlöse
