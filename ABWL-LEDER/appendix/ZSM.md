@@ -85,9 +85,9 @@
 
 **Formelle Wege**
 
-- Top-Down: Entscheidung/Ziel/Aufgabe wird weitergegeben $\rightarrow$ Vorgaben, autoritär, MbR (Management by Results)
-- Bottom-Up: Informationen kommen vom Arbeitsplatz $\rightarrow$ Realitätsprüfung
-- wenn beides aufeinander trifft: kooperative Verhandlungen ("Gegenstromprinzip", Management by Objectives)
+- **Top-Down:** Entscheidung/Ziel/Aufgabe wird weitergegeben $\rightarrow$ Vorgaben, autoritär, MbR (Management by Results)
+- **Bottom-Up:** Informationen kommen vom Arbeitsplatz $\rightarrow$ Realitätsprüfung
+- wenn beides aufeinander trifft: kooperative Verhandlungen (*"Gegenstromprinzip"*, Management by Objectives)
 
 **Informelle Wege:** *"Kleiner Dienstweg"*, *"Buschfunk"*
 
@@ -102,6 +102,11 @@
 #### Verantwortung
 
 > **Definition:** Übergabe durch den Vorgesetzten $\rightarrow$ Übernahme durch den Mitarbeiter $\rightarrow$ Pflicht der Aufgabe/Ziel (Erfüllung) = Verantwortung
+
+#### Aufgabenanalyse und -synthese
+
+- **Aufgabenanalyse:** Ermitteln von elementaren (Teil-)Aufgaben $\rightarrow$ fachlich und zeitlich optimale Zusammenfassung/Bündelung zu Stelle
+- **Aufgabensynthese:** ökonomisch sinnvolle Aufgabenbündeln (von Stellen) zu Abteilungen bis hin zur Gestaltung der gesamten Aufbauorganisation $\rightarrow$ rationell gestaltete Arbeitsteilung im Unternehmen
 
 #### Centerorganisation
 
