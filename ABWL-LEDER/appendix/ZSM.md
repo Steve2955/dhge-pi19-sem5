@@ -1,4 +1,4 @@
-# Zusammenfassung: Allgemeine Betriebswirtschaftslehre
+# ABWL
 
 ## Unternehmensführung
 
@@ -58,7 +58,7 @@
 
 ### PDCA-Methode
 
-> Methode zur Implementation etwas Neuem im Unternehmen
+> Methode zur Implementation von etwas Neuem im Unternehmen
 
 - **Plan:** Aufgabe definieren, Analysieren, Planen, Entscheidungen
 - **Do:** Ausprobieren, Testen $\rightarrow$ Daten
@@ -68,6 +68,8 @@
 ### Controlling
 
 - *kontinuierliche* Lenkung, Steuerung und Regelung, um ein Ziel zu erreichen
+  - ständiger SOLL-IST-Vergleich $\rightarrow$ Lenkung, Rückkopplung auf Aufgaben & Ziele
+- Kennzahl-Systeme: Du Pont, ZVEI, BSC, Management Cockpit, ...
 - vgl. Kontrolle: nur *einmalige* Überprüfung, ob Ziel/Aufgabe erfüllt
 
 ### Instrumente der Aufbauorganisation
@@ -116,3 +118,60 @@
 - **Profit-Center:** Aufgabe der Gewinnerzielung
 - **Cost-Center:** Buchhaltung, Verwaltung, ... (notwendige Kosten $\rightarrow$ Kostenminimierung)
 - **Revenue-Center:** Verantwortung für die zu erzielenden Umsatzerlöse
+
+<!-- ToDo: Hier unbedingt nochmal über die einzelnen Funktionen drüberschauen (die Vierteilung macht in meinem Kopf noch keinen Sinn) -->
+
+<!-- ToDo: Hier fehlen noch einige Themen -->
+
+## Qualitätsmanagement
+
+### Qualität und Qualitätsmanagement
+
+- **Qualität:** Anspruch an eine Sache/Leistung/Person (benötigt Maßstab)
+- **Qualitätsmanagement:** Maßnahmen zur Durchsetzung der Erwartungen
+  - Überprüfung der Maßnahmen nach Sinn, Effizienz und Effektivität
+
+### Ziele und Wirkungen von Qualitätsmanagement
+
+**Ziele**
+
+- kontinuierliche Organisation zur Überprüfung der Qualität (bspw. TÜV)
+- Schulung und Qualifikation der Mitarbeiter
+
+**Wirkung**
+
+- frühzeitiges Erkennen von Qualitätsverlusten $\rightarrow$ Verbesserung ableiten
+  - Möglichkeit der Qualitätssteigerung
+  - Ausschuss vermeiden
+  - Kundenbindung durch bessere Qualität
+- Einhaltung von Qualitätsstandards
+
+### Qualitätspolitik
+
+> Qualitätspolitik ist Unternehmenspolitik!
+
+- **Vision des Unternehmens** (Philosophie): Produkt/DL
+- $\uparrow$ **Unternehmenspolitik:** Produkt/DL; Personal, Kunden, Partner; Nachhaltigkeit; **Qualität**
+- $\uparrow$ **Unternehmensleitbild:** Publikation der Unternehmenspolitik
+- $\uparrow$ **Unternehmenskultur:** Umsetzung; Realisierung; KVP
+
+> Alles baut aufeinander auf.
+
+### Notwendige Instrumentarien zur Qualitätsbestimmung
+
+- **Leitbild:** Unternehmensleitbild zur Realisierung von Qualität
+- **Struktur:** Unternehmensstruktur (Aufbauorganisation)
+- **Prozesse:** Prozessabläufe im Unternehmen (z.B. innerbetriebliche Logistik)
+- **Stellenbeschreibung** für alle Mitarbeiter
+- **Beurteilung** von Leistung und Verhalten der Mitarbeiter
+- **Realisierung** der Vorgaben (Unternehmenskultur)
+
+### Klassische Qualitätssicherung vs TQM
+
+| Klassische Qualitätssicherung                                     | Total-Quality-Management                                                          |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Menschen** machen Fehler                                        | **Prozesse** provozieren Fehler                                                   |
+| **Einzelne Mitarbeiter** sind für Fehler verantwortlich           | **Alle Mitarbeiter** sind für Fehler verantwortlich                               |
+| Null Fehler sind **nicht realisierbar**                           | Null Fehler ist das **Ziel*                                                       |
+| Einkauf von **vielen Lieferanten**                                | Partnerschaft mit **wenigen Lieferanten** ($\rightarrow$ Supply-Chain-Management) |
+| **Kunden müssen nehmen**, was das Unternehmen an Qualität liefert | Alles ist auf vollkommene **Kundenzufriedenheit** ausgerichtet                    |
