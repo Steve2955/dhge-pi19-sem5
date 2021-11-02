@@ -123,6 +123,16 @@
 
 <!-- ToDo: Hier fehlen noch einige Themen -->
 
+## Projektmanagement
+
+> Die Durchführung eines Projektes besteht aus dem Projekt selbst und dem Projektmanagement
+
+- **Projekt:** risikobehafteter, hoch komplexer Gegenstand einer Handlung (Ziel/Aufgabe) mit begrenzten Ressourcen (HR, MR, FR) in einem bestimmten Zeitrahmen
+- **Projektmanagement:** Organisation von Ablauf, Abrechnung und Dokumentation der Umsetzung eines Projektes
+- **Kontinuierlicher Verbesserungsprozess:** durch Markt (Wettbewerb, Kunde) und technisch-technologischen Fortschritt getrieben
+
+<!-- ToDo: Das Thema fehlt sonst noch komplett -->
+
 ## Qualitätsmanagement
 
 ### Qualität und Qualitätsmanagement
@@ -167,6 +177,8 @@
 - **Realisierung** der Vorgaben (Unternehmenskultur)
 
 ### Klassische Qualitätssicherung vs TQM
+
+> TQM umfasst aufzeichnende, sichtende, organisierende, kontrollierende und korrigierende Tätigkeiten
 
 | Klassische Qualitätssicherung                                     | Total-Quality-Management                                                          |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------- |
