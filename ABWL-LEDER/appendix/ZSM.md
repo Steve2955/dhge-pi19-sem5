@@ -46,7 +46,9 @@
 - **Oligopol:** wenige Anbieter bzw. wenige ein Nachfrager
 - **Monopol:** ein Anbieter bzw. ein Nachfrager
 
-### Managementkreislauf
+### Management
+
+#### Managementkreislauf des funktionellen Managements
 
 > Basis = Ziel/Aufgabe
 
@@ -56,7 +58,7 @@
 - **Directing:** Mitarbeiterführung (Realisierung der Prozesse)
 - **Controlling:** Kontrolle, Steuerung, Regelung
 
-### PDCA-Methode
+#### PDCA-Methode
 
 > Methode zur Implementation von etwas Neuem im Unternehmen
 
@@ -65,7 +67,7 @@
 - **Check:** Analyse der Daten (Loop zu Do $\rightarrow$ so lange Probieren, bis `SOLL==IST`)
 - **Act:** Realisierung, Daten sammeln ($\rightarrow$ Controlling $\rightarrow$ Verbesserung)
 
-### Controlling
+#### Controlling
 
 - *kontinuierliche* Lenkung, Steuerung und Regelung, um ein Ziel zu erreichen
   - ständiger SOLL-IST-Vergleich $\rightarrow$ Lenkung, Rückkopplung auf Aufgaben & Ziele
@@ -130,6 +132,23 @@
 - **Projekt:** risikobehafteter, hoch komplexer Gegenstand einer Handlung (Ziel/Aufgabe) mit begrenzten Ressourcen (HR, MR, FR) in einem bestimmten Zeitrahmen
 - **Projektmanagement:** Organisation von Ablauf, Abrechnung und Dokumentation der Umsetzung eines Projektes
 - **Kontinuierlicher Verbesserungsprozess:** durch Markt (Wettbewerb, Kunde) und technisch-technologischen Fortschritt getrieben
+
+### Projekt vs Projektmanagement
+
+| Projekt                                           | Projektmanagement                        |
+| ------------------------------------------------- | ---------------------------------------- |
+| Gegenstand einer Handlung (Ziel/Aufgabenstellung) | Umsetzung des Projektes (Projektauftrag) |
+| begrenzte Ressourcen                              | Organisation                             |
+| hoch komplex                                      | Ablauf                                   |
+| Zeitrahmen                                        | Abrechnung                               |
+| Risiko                                            | Dokumentation                            |
+
+### Grundsätze der Projektplanung
+
+- **Einheitliche Planungsmethoden:** Vergleichbarkeit, Benchmark, Synergien Nutzen, Transparenz
+- **Einheitliche Planungsstandards:** Verständnis bei allen Beteiligten, Abrechenbarkeit und Kennzahlsysteme, Transparenz
+- **Nutzung geeigneter Projektsoftware:** Sparsamkeitsprinzip, Nutzung von Bekannten, Optimierung des zeitlichen Aufwandes
+- **Nutzung von Projekterfahrung:** Verbesserung des Verständnisses, Risikominimierung, Motivations- und Wissensmanagement
 
 <!-- ToDo: Das Thema fehlt sonst noch komplett -->
 
