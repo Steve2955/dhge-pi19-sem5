@@ -71,7 +71,7 @@
 
 - *kontinuierliche* Lenkung, Steuerung und Regelung, um ein Ziel zu erreichen
   - ständiger SOLL-IST-Vergleich $\rightarrow$ Lenkung, Rückkopplung auf Aufgaben & Ziele
-- Kennzahl-Systeme: Du Pont, ZVEI, BSC, Kennzahl Cockpit, ...
+- Kennzahl-Systeme: Du Pont, ZVEI, BSC, Kennzahlen-Cockpit, ...
   – Übersicht der Kennzahlen durch Anzeigen und Zeigerfunktionen
   - Ampel-System: farbliche Markierung des Erfüllungsstandes
 - vgl. Kontrolle: nur *einmalige* Überprüfung, ob Ziel/Aufgabe erfüllt
@@ -348,6 +348,87 @@
 - $\ominus$ hohe Kosten der Personalbeschaffung
 - $\ominus$ geringere Kenntnis des Betriebs (lange Einarbeitung)
 - $\ominus$ Risiko von Fehlbesetzung
+
+### Rechnungswesen
+
+#### Notwendigkeit von Kennzahlen zur Führung von Prozessen
+
+- Problemerkennung
+- Situationsbewertung
+- Darstellung von Zusammenhängen und Abhängigkeiten
+- Grundlage für Entscheidungen
+- Kontrolle von Entscheidungen
+- Benchmark/Vergleich
+
+> **Vergleichbarkeit, Verständlichkeit, Benutzerfreundlichkeit**
+
+##### wesentliche Kennzahlsysteme
+
+- **DuPont:** Fokus auf ROI
+- **ZVEI:** Eigenkapitalrentabilität im Fokus
+- **Rentabilitäts-Liquiditäts-Kennzahlensystem**
+- **Kennzahlen-Cockpit:** Darstellungsform der Verknüpfung verschiedener Kennzahlen (Zielverfolgungssystem)
+
+#### internes vs. externes Rechnungswesen
+
+- **internes Rechnungswesen**
+  - Kosten-Leistungs-Rechnung (KLR)
+  - Selbstkosten der Produkte/DL mit Preiskalkulation
+  - Controlling
+- **externes Rechnungswesen:** externen Adressaten (Banken, Fiskus, Aktionäre)
+  - Bilanz
+  - Erfolgsrechnung (GuV)
+  - Einschätzung und Ausblick des Unternehmens (Lagebericht)
+
+#### Funktionen des externen Rechnungswesens
+
+- **Informationsfunktion:** Informationsaustausch zw. Kapitalgeber und Management
+- **Ausschüttungsbemessungsfunktion:** Gewinnermittlung und -verwendung
+- **Entscheidungsanreizsystem:** Bilanzpolitik $\rightarrow$ Beeinflussung von Entscheidungen
+- vergangenheitsorientierte **Dokumentation und Rechenschaftslegung**
+- **gesetzliche Regelung:** beachten handels- und steuerrechtlicher Regelungen
+
+#### Bedeutung des externen Rechnungswesens
+
+- finanzielle Situation des Unternehmens nach außen kommunizieren
+- Einhaltung rechtlicher Pflichten: Bilanz, Steuern, ...
+
+#### Funktion der BSC
+
+- Verbindungsglied zwischen Strategiefindung und -umsetzung
+- traditionelle finanzielle Kennzahlen durch eine Kunden-, eine interne Prozess- und eine Lern- und Entwicklungsperspektive ergänzt
+
+##### Vor- und Nachteile der BSC
+
+| Vorteile                                                                     | Nachteile                                                                                                          |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| schneller, pointierter Blick auf wichtige Fakten                             | beliebige Wahl der Kennzahlen & Interpretationen                                                                   |
+| Flexibilität, Anpassung an jedes Unternehmen durch Fülle an Kennzahlen mögl. | Vernachlässigung langfristiger Gewinne zu Gunsten kurzfristiger Gewinne, bei kompletter Ausrichtung auf Kennzahlen |
+| einfache Programmierbarkeit und Aufnahme in die EDV bei Rechnersystemen      | Kennzahleninflation, bei zu vielen Kennzahlen stehen Nutzen und Erstellungsaufwand nicht in Relation               |
+
+#### Vollkostenrechnung
+
+- Erfassung aller Kosten und deren Zuordnung zum Produkt/DL
+- feste Kosten, festes gewünschtes Einkommen, fester Preis
+
+#### Teilkostenrechnung
+
+- Aufteilung der Kosten nach Zurechenbarkeit $\rightarrow$ fix-Kosten / variable Kosten
+- nachdem gewünschtes Einkommen & feste Kosten erreicht $\rightarrow$ Berücksichtigung variabler Kosten mit neuem (günstigerem) Preis
+
+### Investition und Finanzierung
+
+<!--ToDo: Continue here -->
+
+#### Inhalt, Ziel und Formen der Protektionswirtschaft
+
+> Form der Handelspolitik, geprägt durch staatliche Maßnahmen um die eigene Volkswirtschaft durch Handelshemmnisse zu schützen und Exportwirtschaft zu fördern.
+
+- **Schutzfunktion:** einzelne Sektoren einer Volkswirtschaft vor Importkonkurrenz zu schützen
+  - Zölle, Abgaben und/oder Preise auf bestimmte Waren/DL durch Land(DE)/Region(EU) aus wirtschaftlichem (tarifär) oder politischem Interesse (nicht tarifär)
+- **Förderung:** eigenen Exportwirtschaft Vorteile auf dem internationalen Markt verschaffen
+  - Erweiterung des Waren-/DL-Austausches zwischen bilateralen (zwei) oder multilaterale (mehreren) Handelspartnern
+  - Maßnahmen zur Schaffung neuer Märkte oder politische Unterstützung einer Entwicklung
 
 ## Projektmanagement
 
