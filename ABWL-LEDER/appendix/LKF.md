@@ -135,6 +135,12 @@
 - **Aufgabenanalyse:** Ermitteln von **elementaren (Teil-)Aufgaben** $\rightarrow$ fachlich und zeitlich **optimale Zusammenfassung/Bündelung zu Stelle**
 - **Aufgabensynthese:** ökonomisch sinnvolle Aufgabenbündeln (von Stellen) zu Abteilungen bis hin zur Gestaltung der gesamten Aufbauorganisation $\rightarrow$ rationell gestaltete Arbeitsteilung im Unternehmen
 
+#### Eisenhower-Matrix
+
+> Dringlichkeit vs. Wichtigkeit
+
+![Eisenhower-Matrix](assets/eisenhower.jpg)
+
 #### Liniensysteme
 
 ##### Einliniensystem
@@ -418,9 +424,49 @@
 
 ### Investition und Finanzierung
 
-<!--ToDo: Continue here -->
+#### Einteilung der Investitionen und deren Inhalt
 
-#### Inhalt, Ziel und Formen der Protektionswirtschaft
+- **Objektbezug**
+  - Sachinvestitionen (Gebäude, Maschinen, Roh- und Hilfsstoffe)
+  - Finanzinvestitionen (Bankguthaben, festverzinsliche Wertpapiere, gewährtes Darlehn $\rightarrow$ Normalinvestition)
+  - immaterielle Investitionen (Aus- und Fortbildung, Software, Patente)
+- **Hierarchie**/Entscheidungsebenen
+  - strategisch: im Top-Management entschieden, lange Laufzeiten (3-5 Jahre), Gebäude, Maschinenkomplexe,...
+  - taktisch: im Middle-Management entschieden, mittelfristige Laufzeiten (1-3 Jahre), Ausrüstung
+  - operativ: im Low-Management entschieden, kurzfristige Laufzeiten, routinemäßige Anschaffungen
+- **Häufigkeit** des Anfallens
+  - einzelne: einmalig, ohne Wdh.
+  - als Folge: häufig anfallend, wiederholend
+  - als Kette: wiederholend, Bedingtheit
+- **Umfang** (Größenordnung)
+  - Routine: geringer Zeitaufwand, Ersatz von Material, GWGs (Geringwertiges Wirtschaftsgut) & Schreibmaterialbestellung
+  - Unternehmenspolitisch: hoher Zeitaufwand, bedeutend für die Leistungsfähigkeit, Ausrüstung
+- der zu **erzielenden Wirkung**
+  - Nettoinvestition: Gründung oder Erweiterung
+  - Reinvestition: Ersatz, Rationalisierung, Umstellung, Diversifikation oder Sicherung
+
+#### Vorgehensweise bei einer Investition
+
+1. **Marktanalyse** (SWOT, Notwendigkeitsprüfung)
+2. **Entscheidung zur Investition** (Umfang & Art der Investition, notwendige Kapitalstruktur)
+3. **Angebote** (Lastenheft & Ausschreibung, Bereitstellung des Kapitals und Zuschlag)
+4. **Realisierung** (Umsetzung, Abnahme der Investition)
+
+#### Kriterien der Einteilung der Betrachtung von Finanzierungen
+
+- **Fristenbezogen:** unbefristet (Kontokorrent), befristet (Kredit $\rightarrow$ kurz-, mittel- oder langfristig)
+- **Kapitalarten:** Eigen-/Fremdkapital
+- **Kapitalherkunft:** Außenfinanzierung (Beteiligungen, Fremdfinanzierung), Innenfinanzierung (Erträge, Freisetzungen)
+
+#### Inhalt und Ursache einer Finanzierung
+
+- Investition ist notwendig oder erwünscht $\rightarrow$ Abstimmung $\rightarrow$ Finanzierungsmöglichkeiten evaluieren
+- entweder realisierbare Investionen (mit endgültigen Investitionsbedarf & Investitionsprogramm) oder nicht realisierbare Investition
+- Größe des Kapitalbedarfs?
+- Finanzierungsarten?
+- Kostenoptimale Finanzierung?
+
+### Protektionswirtschaft
 
 > Form der Handelspolitik, geprägt durch staatliche Maßnahmen um die eigene Volkswirtschaft durch Handelshemmnisse zu schützen und Exportwirtschaft zu fördern.
 
@@ -429,6 +475,66 @@
 - **Förderung:** eigenen Exportwirtschaft Vorteile auf dem internationalen Markt verschaffen
   - Erweiterung des Waren-/DL-Austausches zwischen bilateralen (zwei) oder multilaterale (mehreren) Handelspartnern
   - Maßnahmen zur Schaffung neuer Märkte oder politische Unterstützung einer Entwicklung
+
+### Marketing
+
+- Bedarf an Produkten/Dienstleistungen bekanntgeben
+- ein Bild vom Unternehmen/Institution/Behörde/...
+- ein Bild von der Leistung/Leistungsfähigkeit...
+- ein Bild von den Produkten...
+
+> oder eine Kombination daraus ... vermitteln
+
+#### AIDA-Prinzip
+
+- **A**ttention: Aufmerksamkeit wecken
+- **I**nterest: Interesse erregen
+- **D**esire: Wunsch Produkt/DL hervorrufen
+- **A**ction: Kunde zum Kauf bewegen
+
+#### Pull- vs. Push-Marketing
+
+- **Push-Marketing:** Interesse wecken $\rightarrow$ Kunden zum Kauf animieren (Traditionelle Werbung)
+- **Pull-Marketing:** Orientierung an den Bedürfnissen des Marktes $\rightarrow$ Interesse der Kunden nutzen (Nachfrage decken)
+
+#### Produktlebenszyklus
+
+- **Entwicklungsphase** (Prototyp, Funktionsmuster,...)
+- **Einführungsphase** (Produkt Launch, Messeneuheit,...)
+- **Wachstumsphase** (steigender Bedarf durch Nachfrage)
+- **Reifephase** (Nachfrage aufgrund gesicherter Erwartung)
+- **Sättigungsphase** (erste Angebote zur Steigerung der Attraktivität)
+- **Degenerationsphase** (Abverkauf)
+
+#### BCG-Matrix
+
+> relativer Marktabteil vs. Marktwachstum
+
+![BCG-Matrix](assets/bcg.png)
+
+> der Produktlebenszyklus kann in die BCG-Matrix eingebettet werden
+
+#### Möglichkeiten der Preisgestaltung
+
+- **offensive Preispolitik:** **Hochpreispoltik** (aufwendiges Verkaufsambiente und/oder hochwertige Ware), **Niedrigpreispolitik** (Discount)
+- **defensive Preispolitik:** kein Engagement im Preiskampf (Anpassen der Preise an Wettbewerb und/oder Überzeugung durch Leistung), Herstellerempfehlung (Markenprodukt)
+
+#### Instrumente des Marketings
+
+- **Produkt-/Dienstleistungspolitik**
+  - Produkt-/Dienstleistungsportfolio
+  - Breite & Tiefe des Sortiments
+  - Aktualität
+- **Distributionspolitik**
+  - Vertrieb
+  - Bereitstellung und Logistik
+  - Pflege der Kundenbeziehungen
+- **Kommunikationspolitik**
+  - Werbung
+  - Einsatz der Werbemittel/-Träger und Zielgruppenansprache
+- **Preispolitik**
+  - Preis der Produkte/Dienstleistungen
+  - Angebot und Nachfrage
 
 ## Projektmanagement
 
