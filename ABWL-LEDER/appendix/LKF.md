@@ -76,6 +76,18 @@
   - Ampel-System: farbliche Markierung des Erfüllungsstandes
 - vgl. Kontrolle: nur *einmalige* Überprüfung, ob Ziel/Aufgabe erfüllt
 
+### Aufbau- vs. Ablauforganisation
+
+- **Aufbauorganisation:** **Struktur des Unternehmens** mit seinen Hierarchien
+- **Ablauforganisation:** Organisation der **Durchführung von Prozessen**
+
+### Instrumente der Ablauforganisation
+
+- Netzplantechnik (Knotennetzplan)
+- Ganttdiagramm
+- Flussdiagramm
+- Workflow
+
 ### Instrumente der Aufbauorganisation
 
 - **Organigramm:** Hierarchie $\rightarrow$ Beziehungen, Aufgabenverteilung, Unterstellung
@@ -107,7 +119,16 @@
 
 #### Verantwortung
 
-> **Definition:** Übergabe durch den Vorgesetzten $\rightarrow$ Übernahme durch den Mitarbeiter $\rightarrow$ **Pflicht der Aufgabe/Ziel (Erfüllung)** = Verantwortung
+> **Definition:** Übergabe durch den Vorgesetzten $\rightarrow$ Übernahme durch den Mitarbeiter
+> $\rightarrow$ **Pflicht der Aufgabe/Ziel (Erfüllung)** = Verantwortung
+
+#### Kompetenzen einer Stelle
+
+- Weisung
+- Entscheidung
+- Verfügung
+- Vertretung
+- Information
 
 #### Aufgabenanalyse und -synthese
 
@@ -222,13 +243,111 @@
 
 <!-- ToDo: Hier fehlen noch einige Themen -->
 
-### Peronalplanung
+### Personalplanung
 
+#### Inhalte der Personalplanung
+
+- **qualitativ:** Beschaffung von MA, Definition benötigter Qualifikationen
+- **quantitativ:** Personalbedarf des Unternehmens (Basis: Personalbestand, erwartete Zu-/Abgänge $\rightarrow$ Bedarfsrechnung)
 #### Planungshorizont
 
 - **operativ:** kurzfristige Prozess-Steuerung (z.B. Urlaubsplanung)
 - **taktisch:** mittelfristig, Teilziele (>1-5 Jahre)
 - **strategisch:** langfristig, grundlegende Ziele (>5 Jahre)
+
+#### Gründe des quantitativen Personaleinsatzes
+
+- **Ersatzbedarf:** Natürliche und künstliche Fluktuation
+- **Neubedarf:** Expansion, neue Prozesse
+- **Mehrbedarf:** Saisonale Schwankung oder Strukturveränderungen
+- **Reservebedarf:** Ausfallbedarfe, Befristeter Bedarf
+- **Nachholbedarf:** Unbesetzte Kapazitäten, neue Aufgaben
+
+#### Inhalte des quantitativen Personaleinsatzes
+
+<!--ToDo-->
+
+#### Methoden zur Berechnung des quantitativen Personaleinsatzes
+
+- **Analogie-Schlussmethode:** z.B. für 100 Aufträge 10 MA $\rightarrow$ für 150 Aufträge 15 MA
+- **Schätzmethoden:** einfache Expertenschätzung oder systematisch unter Einbeziehung von Kennzahlen
+- **Berechnung des Personalbedarfs:** Aktuelle Stellen (+/- Auf-/Abbau) - Aktuelle MA (+/- Zu-/Abgänge) = Bruttopersonalbedarf
+
+#### Einflussgrößen auf die Personalkosten und deren  Bestandteile
+
+- Einflussgrößen: Entstehung, Art, Entwicklung und Beeinflussung
+- Bestandteile: Lohn-/Gehaltskosten, Lohnzusatzkosten, Personalbeschaffungskosten, Personalverwaltungskosten, Personalentwicklungskosten, sonstige Personalkosten
+
+##### Einteilung von Personalkosten
+
+- **direkte Kosten:** Lohn, Gehalt, Lohnzusatz
+- **indirekte Kosten:** Personal-Beschaffung, -Entwicklung, -Verwaltung
+- **weitere:** Weiterbildung, Consulting, ...
+
+#### Inhalte der qualitativen Personalplanung
+
+- fachliche, methodische, persönliche Kompetenzen
+- notwendige, vorhandene, künftige Kompetenzen
+- Kenntnis der **Potenziale der MA** (Definition vorhandener Potentiale der MA)
+- **Anforderungsprofile** für eine Stelle (Definition notwendiger Anforderungen einer Stelle)
+- Abgleich des Bedarfs (**SOLL-IST-Vergleich**)
+
+#### Medien und Kanäle der Personalbeschaffung
+
+- Social-Media
+- Anzeigen in Werbeträgern
+- Kontakte zu Bewerbern
+- Präsenz auf Messen
+- Zusammenarbeit mit Bildungsträgern
+- Vorhandene MA
+
+#### Wirkung der CI auf die Personalbeschaffung und dessen ausschlaggebenden Bestandteile
+
+- Corporate Identity **wirkt nach innen & außen**
+- Bestandteile: **Corporate Behaviour, Corporate Communication**
+- **Orientierung für das Verhalten des Unternehmen** am Markt/Gesellschaft
+
+#### Notwendige Tätigkeiten bei der Auswahl von Bewerbern
+
+- Speichern
+- Abfragen
+- Kommunizieren
+- Aufbereiten
+- Zusagen
+- Absagen
+- Kosten
+- Controlling
+
+#### Einflussfaktoren zur Bestimmung einer Auswahlmethode
+
+- Arbeitsmarkt
+- Präferenz des Unternehmens
+- Anforderungsprofil
+- Unternehmensstandort
+- Budget
+- Zeit
+
+#### interne vs. externe Personalbeschaffung
+
+**Interne Personalbeschaffung:** Personalkapazitäten kurzfristig *innerhalb des Unternehmens* gewinnen
+
+- $\oplus$ niedrige Beschaffungskosten
+- $\oplus$ MA bezüglich Qualifikationen, Persönlichkeit und Fähigkeiten bekannt (Fehlbesetzung unwahrscheinlich)
+- $\oplus$ MA-Zufriedenheit durch Aufstiegschancen
+- $\oplus$ schnelle Einarbeitung
+- $\ominus$ Auswahl begrenzt (vgl. Markt)
+- $\ominus$ Betriebsblindheit
+- $\ominus$ Neubesetzung der alten Stelle
+- $\ominus$ evtl. hohe Weiterbildungskosten
+
+**Externe Personalbeschaffung:** Personalkapazitäten auf dem *Arbeitsmarkt* gewinnen
+
+- $\oplus$ großes Angebot von qualifizierten Bewerbern
+- $\oplus$ neue Ideen, Einstellungen, Werte *(Frischer Wind)*
+- $\oplus$ keine Ausbildungskosten und -zeiten
+- $\ominus$ hohe Kosten der Personalbeschaffung
+- $\ominus$ geringere Kenntnis des Betriebs (lange Einarbeitung)
+- $\ominus$ Risiko von Fehlbesetzung
 
 ## Projektmanagement
 
@@ -311,304 +430,3 @@
 | Null Fehler sind **nicht realisierbar**                           | Null Fehler ist das **Ziel*                                                       |
 | Einkauf von **vielen Lieferanten**                                | Partnerschaft mit **wenigen Lieferanten** ($\rightarrow$ Supply-Chain-Management) |
 | **Kunden müssen nehmen**, was das Unternehmen an Qualität liefert | Alles ist auf vollkommene **Kundenzufriedenheit** ausgerichtet                    |
-
-"Partner,         Mitarbeiter Kunden"
-Merkmale des Unternehmens – Aufgaben – kurzfristige Auffassungen [operativ]
-"""Produkte verkaufen!“  Aufgabe des Vertriebs"
-"""Finanzierungsplan erarbeiten!“  Aufgabe des Geschäftsführers  ""Beantragen finanzieller Förderung!“  Aufgabe des Finanzbereichs ""Mögliche Kunden ansprechen!""  Aufgabe des Marketings und des Vertriebs"
-"""Jahresabschluss erstellen!""  Aufgabe des Geschäftsführers und des Finanzbereichs ""Konflikte mit Kunden austragen!""  Aufgabe der Geschäftsführung ""Innerbetriebliche Organisation!""  Aufgabe des Managements"
-"""Systeme schaffen!""  Aufgabe der Geschäftsführung und des Managements"
-…
-Quelle:
-http://www.unternehmercoach.com/coach-unternehmer-coaching/aufgaben-des- unternehmers-zweite-wachstumshuerde.htm
-Merkmale des Unternehmens – Management
-"Management [englisch manage, italienisch maneggiare  „an der Hand führen“"
-Definition:
-"Management sind Personen, Organisationen oder Leitungsfunktionen, die die Funktionen der Planung, Organisation, Führung und Controlling in einem Unternehmen ausüben."
-Institutionell
-Person oder Personengruppen
-die in Rangfolge
-einer Organisation dargestellt in einem
-Organigramm ein Unternehmen führen
-Funktionell – Die Handlung des Führens einer
-Organisation durch:
- Zielsetzung
- Planen
- Organisieren
- Realisieren
- Controlling
-Merkmale des Unternehmens – Management
-"Management – „to manage“ – etwas handhaben, etwas leiten, etwas Zustande bringen,"
-…  Ziele erreichen
-institutionell
-funktionell
-"Personen, Personengruppen"
-"Prozessführung, -Steuerung, -Regelung"
-"Bsp.: Geschäftsführer, Leiter, Vorstand"
-"Aufgaben, Handlungen und Entscheidung"
-zum Managementkreislauf
-Mitarbeiterführung                                                Prozesssteuerung
-Merkmale des Unternehmens – funktionelles Management
-Planing
-Analyse und Planung
-Controlling
-"Kontrolle, Steuerung, Regelung"
-Organizing
-Organisieren
-"[Wahl der Mittel, Prioritäten, Koordination]"
-Directing
-Mitarbeiterführung [Realisierung der Prozesse]
-Staffing
-Personalwirtschaft
-Einsatz
-Recruiting
-Kosten
-Kosten
-Entwicklung
-Anpassung
-Planung des Personalbedarfs – Kompliziertheit der Planung durch Abhängigkeiten
-strategisch
-• > 5 Jahre
-"• Langfristig, grundlegende Ziele"
-taktisch
-• >1 bis 5 Jahre
-"• Mittelfristig, Teilziele"
-operativ
-• kurzfristig
-• Prozess-Steuerung
-Unsicherheit je länger der
-Planungshorizont
-Personalplanung                                               Andere Pläne
-Planung des Personalbedarfs – zu berücksichtigende Bedingungen
- BGB Bsp.: §§ 611ff Dienstverhältnis  Arbeitsvertrag
- Gewerbeordnung  Bsp.: Weisungsrecht
-" Arbeitszeitgesetz, Arbeitsschutzgesetz, Jugendschutzgesetz, …"
-" Tarifverträge, Betriebsvereinbarung, …"
- Einzelvereinbarungen in Arbeitsverträgen
-" Personalstruktur [ Vollzeit, Teilzeit, Einsatzschlüssel, …]"
- Aufbau- und Ablauforganisation
-" Fehlzeiten, Fluktuation"
-Anzahl
-• Besetzung der Ebenen der Hierarchie
-"• Menge der MA, Verhältnis FK <-> MA"
-Qualifikation
-• Ausbildung der MA
-• Fähigkeiten der MA
-Zeitpunkt
-• Zeitpunkt der Aufgabenstellung
-• Zeitpunkt der Aufgabenerledigung
-Einsatz Ort
-• Interne Arbeitsplätze
-• Externe Arbeitsplätze
-Verfahren und Methoden
-Verfahren der
-Personalplanung
-Vergangenheits-
-orientiert
-Schätzmethoden
-organisatorisch
-Personal-
-bemessungs- methoden
-Trend-
-exploration
-Schätzverfahren
-Stellenplan-
-methode
-REFA-Methode
-© Copyright by Thomas Leder new ways -                                                                          79
-praktische Lösungen
-Quantitative Planung
-Gründe des Einsatzes von Personal
-Ersatz-Bedarf
-Neu-Bedarf
-Mehr-Bedarf
-• Natürliche Fluktuation
-• Künstliche Fluktuation
-• Expansion
-• Neue Prozesse
-• Saisonale
-• Strukturveränderungen
-Reserve-Bedarf
-Nachhol-Bedarf
-• Ausfallbedarfe
-• Befristeter Bedarf
-• Unbesetzte Kapazitäten
-• Neue Aufgaben
-© Copyright by Thomas Leder new ways -
-praktische Lösungen                                                                                             80
-Allgemeine Bedarfsberechnung [Faustformel nach REFA] – Dienstleistungsbetrieb
-Anzahl der Bedieneinheiten        X
-Arbeitszeitbedarf pro
-Bedieneinheit und Periode        =          Personalbedarf
-[quantitativ]
-Arbeitszeit pro Arbeitskraft und Periode
-Erklären sie mit eigenen Worten:
- Anzahl der Bedieneinheiten:    …
-…
- Arbeitszeitbedarf pro Bedieneinheit und Periode:   …
-…
-Anzahl der zu erbringenden Sachleistung pro Periode             X
-Arbeitszeit pro
-Leistungseinheit        =         Personalbedarf
-[quantitativ]
-Arbeitszeit pro Arbeitskraft und Periode
-Erklären sie mit eigenen Worten:
- Anzahl der zu erbringenden Sachleistung pro Periode     …
-…
- Arbeitszeit pro Leistungseinheit:      …
-…
-+	"Personalbestand
-voraussichtliche Zugänge"									"t0
-t0 bis tx"
--	voraussichtliche Abgänge									t0 bis tx
-"=
-+/-"	"voraussichtlicher Personalbestand
-X [Saldo] aus Veränderungsentscheidungen"									"tx
-Personalaufbau/-Abbau"
-=       Personalbestand                                                                       tx1
-positiver Saldo                                                                           Mehrbedarf
-negativer Saldo                                                                         Freistellung
-Personalbestand entsprechend                          tx
-Veränderungsentscheidung
-+      voraussichtliche Abgänge                                    t0 bis tx
--      voraussichtliche Zugänge                                     t0 bis tx
--      Personalbestand                                                    t0
-=      X [Saldo] aus Veränderungsentscheidungen
-positiver Saldo                                                       Mehrbedarf
-negativer Saldo                                                      Freistellung
-Bruttobedarf nach vergangenheitsorientierten Methoden
-Kennzahlen  Bsp.:
-Stellenplan  Bsp.:
-Trend-Extrapolation  Bsp.:
-Analogie-Schlussmethode  Bsp.:
-Methoden der Personalbedarfsberechnung anwenden [Trend-Extrapolation]
-Trend-Extrapolation
- Bestimmung des Trends der Entwicklung des Unternehmens
- in Bezug auf die betriebliche Entwicklung
- im festgelegten Zeitraum
- die notwendige Entwicklung des Personalbestandes
-Vorsicht: positive Entwicklung  negative Entwicklung
-Methoden der Personalbedarfsberechnung anwenden [Trend-Extrapolation]
-beste Entwicklung – best case
-Zeit
-negative Entwicklung – worst case
-© Copyright by Thomas Leder new ways -
-Quelle:
-http://de.wikipedia.org/wiki/Szenariotechnik
-87
-Methoden der Personalbedarfsberechnung anwenden [Szenario-Technik]
-…
-…
-…
-…
-MA in
-Szenarien
-neue Aufträge
-neuer
-Kunde
-Azubi
-lernen aus
-Trendlinie
-Ruhestand
-Wett-
-bewerber expandiert
-Preise für
-Rohstoffe steigen
-Kranken-
-stand steigt
-Neue gesetzliche
-Bestimmungen
-Tarif- erhögung
-Bildquelle: https://de.wikipedia.org/wiki/Szenariotechnik
-Analogie-Schlussmethode
-Betriebliche Vorgänge werden mit einem Zeitaufwand verbunden und einem
-notwendigen Personalbedarf gegenübergestellt
- Beispiel:
- Für 100 Aufträge benötigt man 10 Mitarbeiter
- Für 150 Aufträge benötigt man …… Mitarbeiter
- Vergangenheit
- Anzahl der Mitarbeiter eines Bereichs
- Anzahl der Aufträge
- Berechnung
- Mitarbeiter/Aufträge
- Zukunft
- Eingehende Aufträge
- Mitarbeiter/Aufträge x eingehende Aufträge
-Stellenplanmethode
- Vorlage eines Organigramm über den Aufbau des Unternehmens
- Bestimmen der Hierarchien
- Zählen der Stellen
- Bestimmen von Einsparungen [Stellenwegfall]
- Bestimmen von neuen notwendigen Stellen [Stellenzuwachs]
- Ermittlung des Bedarfs an Stellen
-Berechnung des Personalbedarfs
-Start:
-Ermittlung des Bruttopersonalbedarfs
-gegenwärtig vorhandene Stellen laut Ermittlungsmethode
-+ neue Bedarfsstellen im Planungszeitraum
-–  entfallende Stellen im Planungszeitraum
-Bruttopersonalbedarf
-==========================================
-Berechnung des Personalbedarfs
-1. Schritt
-Ermittlung des Personalbestandes
-gegenwärtiger Personalbestand
-+ feststehende Personalzugänge
--  Personalabgänge
-fortgeschriebener Personalbestand
-==========================================
-Berechnung des Personalbedarfs
-3. Schritt
-Ermittlung des Nettopersonalbedarfes
-Bruttopersonalbedarf
--  fortgeschriebener Personalbestand
-Nettopersonalbedarf
-==========================================
-Berechnung des Personalbedarfs
-Aufgabe:
-Warum können Bruttopersonalbedarf und fortgeschriebener Personalstand differieren?
-Kennzahlen-Methode
- Spekulation an die zu erwartenden Kennzahlen
- Vorhandene Mitarbeiter pro Umsatz/Ertrag
- Multipliziert mit zu erwartendem Umsatz/Ertrag
-"Wird zum Bsp. der Umsatz nicht erreicht, hat das Unternehmen zu viele Mitarbeiter"
- zu hohe Kosten
-Berechnung durch Setzbedarfe
-[Personalschlüsselsysteme]
-" Anzahl der Aufträge [Kinder, Patienten, …]"
- Zeitnormative [Umfang der zu erbringenden Leistungen]
- Stellenschlüssel [Kinder pro Erzieher]
- Öffnungszeiten [Kita von Mo-Fr 7:00 bis 17:00 Uhr => 10h]
- Kinder / Stellenschlüssel => Erzieherbedarf 1
- 5 Tage x 10 Stunden => 50 Arbeitszeit
-" 40 Stundenwoche => 1,25 Erzieherbedarf 2"
-Schätz-Methoden
-Einfache Methode
-Systematische Verfahren
- Expertenschätzung
- Expertenschätzung unter
-Einbeziehung von Kennzahlen [Bsp.
-Aus dem Benchmark] Delphi- Methode
-"Bsp. Vorgesetzte schätzt ein,"
-Personalabteilung schätzt ein
-Bsp. Ausgewählte Gruppe von MA
-"schätzt ein, dabei werden Kennzahlen berücksichtigt"
- Teilen von Arbeitsabläufen in kleinste Arbeitsschritte
-" Spannen, Messen, Ablegen, Einsortieren, …"
- Bestimmen der Zeit für diese Arbeitsschritte
- Addition der Zeiten für einen Prozess
- Prozesszeit mal Aufträge = Gesamtzeit
- Alle Gesamtzeiten / durch die vereinbarte Arbeitszeit  notwendiges Personal
- Vorsicht:
- Bei Menschen wechselt die Kondition
-" Pausen, Urlaub, Krankheit sind einzuplanen"
- Ideal zur Bestimmung der Zeit für Industrieroboter
- Basis ist die MTM
- Es werde unterschieden:
- Rüstzeiten  Arbeitsvorbereitung
- Grundzeit  Arbeitsdurchführung pro Werkstück
-" Erholzeit  Pausen notwendige, gesetzliche, …"
- Verteilzeit  Puffer für Unvorhergesehenes [Ausfälle]
-" Belegungszeit  Nutzung der Betriebsmittel [Bsp. Maschinen, Werkzeuge,"
-…]
- Durchlaufzeit  Gesamtzeit des Auftrages
