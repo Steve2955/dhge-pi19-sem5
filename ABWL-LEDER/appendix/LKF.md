@@ -36,8 +36,13 @@
 ##### Gesellschaftliche Verantwortung
 
 > Drei Säulen Modell der Nachhaltigkeit
->
-> soz.Bez. $\leftrightarrow$ Ökonomie $\leftrightarrow$ Ökologie
+
+$$\begin{matrix}
+\text{Soziale Bez.}&&\text{Ökonomie}\\
+\qquad\searrow&&\swarrow\qquad\\
+&\textbf{Nachhaltigkeit}\\
+&\uparrow\\
+&\text{Ökologie}\end{matrix}$$
 
 #### Äußere Einflussfaktoren auf die Unternehmenspolitik
 
@@ -81,7 +86,7 @@
 - *kontinuierliche* Lenkung, Steuerung und Regelung, um ein Ziel zu erreichen
   - ständiger SOLL-IST-Vergleich $\rightarrow$ Lenkung, Rückkopplung auf Aufgaben & Ziele
 - Kennzahl-Systeme: Du Pont, ZVEI, BSC, Kennzahlen-Cockpit, ...
-  – Übersicht der Kennzahlen durch Anzeigen und Zeigerfunktionen
+  - Übersicht der Kennzahlen durch Anzeigen und Zeigerfunktionen
   - Ampel-System: farbliche Markierung des Erfüllungsstandes
 
 > **vgl. Kontrolle:** nur *einmalige* Überprüfung, ob Ziel/Aufgabe erfüllt
@@ -788,16 +793,16 @@
 
 **Ziele**
 
-- kontinuierliche Organisation zur Überprüfung der Qualität (bspw. TÜV)
-- Schulung und Qualifikation der Mitarbeiter
+- kontinuierliche **Organisation zur Überprüfung** der Qualität (bspw. TÜV)
+- **Schulung und Qualifikation** der Mitarbeiter
 
 **Wirkung**
 
-- frühzeitiges Erkennen von Qualitätsverlusten $\rightarrow$ Verbesserung ableiten
-  - Möglichkeit der Qualitätssteigerung
-  - Ausschuss vermeiden
-  - Kundenbindung durch bessere Qualität
-- Einhaltung von Qualitätsstandards
+- frühzeitiges **Erkennen von Qualitätsverlusten** $\rightarrow$ **Verbesserung** ableiten
+  - Möglichkeit der **Qualitätssteigerung**
+  - **Ausschuss** vermeiden
+  - **Kundenbindung** durch konstante Qualität
+- Einhaltung von **Qualitätsstandards**
 
 ### Qualitätspolitik
 
