@@ -4,22 +4,27 @@
 
 ### Unternehmen
 
-- rechtlich, wirtschaftliche und finanzielle organisierte Einheit
-- komplexes System aus Ressourcen (HR, MR, FR)
+- **rechtlich**, **wirtschaftliche** und **finanzielle organisierte** Einheit
+- komplexes **System aus Ressourcen** (HR, MR, FR)
   - HR = Mitarbeiter mit Fähigkeiten, Fertigkeiten, Wissen und Erfahrungen
   - MR = Maschinen, Gebäude, Material, Lizenzen
   - FR = Finanzielle Mittel $\rightarrow$ Eigen- und Fremdkapital
-- weitgehend autonome Festlegung von Zielen $\rightarrow$ **Autonomieprinzip**
+- weitgehend **autonome Festlegung von Zielen** $\rightarrow$ **Autonomieprinzip**
 - Mitarbeiter bilden **soziales System** (Gruppen, Teams, Abteilungen, ...) $\rightarrow$ ausgerichtet auf Leistungserbringung (erwerbswirtschaftliches Prinzip), Austausch mit Unternehmensumwelt (Markt)
 
-> Unterscheidung: **Betrieb** = Ort der Leistungserbringung; **Unternehmen** = ganzheitliche, rechtliche, finanzielle und wirtschaftliche Einheit des Betriebs
+#### Unternehmen vs. Betrieb
+
+- **Unternehmen:** ganzheitliche, rechtliche, finanzielle und wirtschaftliche Einheit des Betriebs
+- **Betrieb:** Ort der Leistungserbringung
 
 ### Unternehmenspolitik
 
-- Basis: Vision $\rightarrow$ Unternehmenspolitik $\rightarrow$ Unternehmensleitbild (aufgeschriebene Politik zur Kommunikation; **SOLL**)
-  - $\rightarrow$ Unternehmenskultur (*Das was tatsächlich stattfindet*; **IST**)
+- **Basis: Vision**
+- $\downarrow$ **Unternehmenspolitik**
+- $\downarrow$ **Unternehmensleitbild** (aufgeschriebene Politik zur Kommunikation; **SOLL**)
+- $\downarrow$ **Unternehmenskultur** (Das was tatsächlich stattfindet; **IST**)
 
-> passt *SOLL* und *IST* zusammen, wird die höchste Leistungsfähigkeit erreicht
+> passt *SOLL* und *IST* zusammen, wird die **höchste Leistungsfähigkeit** erreicht
 
 #### Inhalt eines Leitbildes
 
@@ -28,16 +33,20 @@
 - **Umwelt:** Ressourcen
 - **Soziale Beziehungen:** Partner, Kunden, Mitarbeiter
 
-> gesellschaftliche Verantwortung: Nachhaltigkeit (3 Säulen Modell: soz.Bez. $\leftrightarrow$ Ökonomie $\leftrightarrow$ Ökologie)
+##### Gesellschaftliche Verantwortung
+
+> Drei Säulen Modell der Nachhaltigkeit
+>
+> soz.Bez. $\leftrightarrow$ Ökonomie $\leftrightarrow$ Ökologie
 
 #### Äußere Einflussfaktoren auf die Unternehmenspolitik
 
-- **Gesellschaftsordnung:** Kapitalismus
+- **Gesellschaftsordnung: Kapitalismus**
   - Erwerbswirtschaftliches Prinzip (langfristige Gewinnmaximierung), Privateigentum, ...
-- **Politische Ordnung:** Föderalismus
+- **Politische Ordnung: Föderalismus**
   - Bundesstaatsprinzip $\rightarrow$ Teilstaaten mit beschränkter staatsrechtlicher Kompetenz
-- **Rechtsordnung:** Öffentliches Recht, Verfassungs-, Straf-, Privatrecht
-- **Wirtschaftsordnung:** soziale Marktwirtschaft
+- **Rechtsordnung: Öffentliches Recht, Verfassungs-, Straf-, Privatrecht**
+- **Wirtschaftsordnung: soziale Marktwirtschaft**
   - Verbindung von Marktwirtschaft und sozialem Ausgleich
 
 ### Marktbeurteilung
@@ -58,13 +67,13 @@
 - **Directing:** Mitarbeiterführung (Realisierung der Prozesse)
 - **Controlling:** Kontrolle, Steuerung, Regelung
 
-#### PDCA-Methode
+#### PDCA-Methode zur Implementation von etwas Neuem
 
 > Methode zur Implementation von etwas Neuem im Unternehmen
 
 - **Plan:** Aufgabe definieren, Analysieren, Planen, Entscheidungen
-- **Do:** Ausprobieren, Testen $\rightarrow$ Daten
-- **Check:** Analyse der Daten (Loop zu Do $\rightarrow$ so lange Probieren, bis `SOLL==IST`)
+- **Do:** Ausprobieren, Testen $\rightarrow$ **Daten**
+- **Check:** Analyse der Daten (**Loop zu Do** $\rightarrow$ so lange Probieren, bis SOLL==IST)
 - **Act:** Realisierung, Daten sammeln ($\rightarrow$ Controlling $\rightarrow$ Verbesserung)
 
 #### Controlling
@@ -74,7 +83,8 @@
 - Kennzahl-Systeme: Du Pont, ZVEI, BSC, Kennzahlen-Cockpit, ...
   – Übersicht der Kennzahlen durch Anzeigen und Zeigerfunktionen
   - Ampel-System: farbliche Markierung des Erfüllungsstandes
-- vgl. Kontrolle: nur *einmalige* Überprüfung, ob Ziel/Aufgabe erfüllt
+
+> **vgl. Kontrolle:** nur *einmalige* Überprüfung, ob Ziel/Aufgabe erfüllt
 
 ### Aufbau- vs. Ablauforganisation
 
@@ -105,21 +115,22 @@
 
 - **Top-Down:** Entscheidung/Ziel/Aufgabe wird weitergegeben $\rightarrow$ Vorgaben, autoritär, MbR (Management by Results)
 - **Bottom-Up:** Informationen kommen vom Arbeitsplatz $\rightarrow$ Realitätsprüfung
-- wenn beides aufeinander trifft: kooperative Verhandlungen (*"Gegenstromprinzip"*, Management by Objectives)
+- wenn beides aufeinander trifft: kooperative Verhandlungen (**"Gegenstromprinzip"**, Management by Objectives)
 
-**Informelle Wege:** *"Kleiner Dienstweg"*, *"Buschfunk"*
+**Informelle Wege:** "Kleiner Dienstweg", "Buschfunk"
 
 #### Stellenbeschreibung
 
 - Grundlage des eigenständigen Handelns eines Mitarbeiters
-- Aufgabenbeschreibung: Bezeichnung, Über-/Unterstellung, Aufgaben, Ziele, Befugnisse, ...
-- Anforderungsprofil: fachliche, methodische und persönliche Kompetenzen
+- **Aufgabenbeschreibung:** Bezeichnung, Über-/Unterstellung, Aufgaben, Ziele, Befugnisse, ...
+- **Anforderungsprofil:** fachliche, methodische und persönliche Kompetenzen
 
 ### Organisation
 
 #### Verantwortung
 
 > **Definition:** Übergabe durch den Vorgesetzten $\rightarrow$ Übernahme durch den Mitarbeiter
+>
 > $\rightarrow$ **Pflicht der Aufgabe/Ziel (Erfüllung)** = Verantwortung
 
 #### Kompetenzen einer Stelle
@@ -255,6 +266,7 @@
 
 - **qualitativ:** Beschaffung von MA, Definition benötigter Qualifikationen
 - **quantitativ:** Personalbedarf des Unternehmens (Basis: Personalbestand, erwartete Zu-/Abgänge $\rightarrow$ Bedarfsrechnung)
+
 #### Planungshorizont
 
 - **operativ:** kurzfristige Prozess-Steuerung (z.B. Urlaubsplanung)
