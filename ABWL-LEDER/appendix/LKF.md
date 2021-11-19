@@ -291,7 +291,7 @@
 - **Schätzmethoden:** einfache Expertenschätzung oder systematisch unter Einbeziehung von Kennzahlen
 - **Berechnung des Personalbedarfs:** Aktuelle Stellen (+/- Auf-/Abbau) - Aktuelle MA (+/- Zu-/Abgänge) = Bruttopersonalbedarf
 
-#### Einflussgrößen auf die Personalkosten und deren  Bestandteile
+#### Einflussgrößen auf die Personalkosten und deren Bestandteile
 
 - Einflussgrößen: Entstehung, Art, Entwicklung und Beeinflussung
 - Bestandteile: Lohn-/Gehaltskosten, Lohnzusatzkosten, Personalbeschaffungskosten, Personalverwaltungskosten, Personalentwicklungskosten, sonstige Personalkosten
@@ -565,6 +565,16 @@
 | hoch komplex                                      | Ablauf                                   |
 | Zeitrahmen                                        | Abrechnung                               |
 | Risiko                                            | Dokumentation                            |
+
+### Ziele nach SMART
+
+- **S**pezifische Sache
+- **M**essbare Größenordnung
+- **A**ktualität
+- **R**ealistisch (erfüllbar)
+- **T**erminierung
+
+> A und R sind Bedingungen
 
 ### Grundsätze der Projektplanung
 
