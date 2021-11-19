@@ -518,18 +518,22 @@
 - **Sättigungsphase** (erste Angebote zur Steigerung der Attraktivität)
 - **Degenerationsphase** (Abverkauf)
 
-#### BCG-Matrix
+#### BCG-Portfolio
 
 > relativer Marktabteil vs. Marktwachstum
 
-![BCG-Matrix](assets/bcg.png)
+![BCG-Portfolio](assets/bcg.png)
 
-> der Produktlebenszyklus kann in die BCG-Matrix eingebettet werden
+> der Produktlebenszyklus kann in die BCG-Portfolio eingebettet werden
 
 #### Möglichkeiten der Preisgestaltung
 
-- **offensive Preispolitik:** **Hochpreispoltik** (aufwendiges Verkaufsambiente und/oder hochwertige Ware), **Niedrigpreispolitik** (Discount)
-- **defensive Preispolitik:** kein Engagement im Preiskampf (Anpassen der Preise an Wettbewerb und/oder Überzeugung durch Leistung), Herstellerempfehlung (Markenprodukt)
+- **offensive Preispolitik:**
+  - **Hochpreispoltik** (aufwendiges Verkaufsambiente und/oder hochwertige Ware)
+  - **Niedrigpreispolitik** (Discount)
+- **defensive Preispolitik:**
+  - kein Engagement im Preiskampf (Anpassen der Preise an Wettbewerb und/oder Überzeugung durch Leistung)
+  - Herstellerempfehlung (Markenprodukt)
 
 #### Instrumente des Marketings
 
@@ -570,11 +574,11 @@
 
 - **S**pezifische Sache
 - **M**essbare Größenordnung
-- **A**ktualität
+- **A**kzeptiert (aktiv beeinflussbar, aktuell)
 - **R**ealistisch (erfüllbar)
 - **T**erminierung
 
-> A und R sind Bedingungen
+> **A** und **R** sind notwendige Bedingungen
 
 ### Grundsätze der Projektplanung
 
@@ -583,7 +587,194 @@
 - **Nutzung geeigneter Projektsoftware:** Sparsamkeitsprinzip, Nutzung von Bekannten, Optimierung des zeitlichen Aufwandes
 - **Nutzung von Projekterfahrung:** Verbesserung des Verständnisses, Risikominimierung, Motivations- und Wissensmanagement
 
-<!-- ToDo: Das Thema fehlt sonst noch komplett -->
+### Arten von Projekten
+
+- ausrichtungsbezogen
+- ausstattungsbezogen
+- trägerbezogen
+- funktionsbezogen
+
+#### ausrichtungsbezogene Projektarten
+
+- **revolutionär:** neue Idee; gewollte Schritte, bewusst angeregt (z.B. Glühbirne)
+- **evolutionär:** kleine ungewollte Schritte $\rightarrow$ Weiterentwicklung einer Idee (Entwicklung) oder Verbesserung/Optimierung einer Idee (Rationalisierung)
+  - z.B.: Sensomotorik beim Menschen
+- **expansiv:** Vergrößern/Ausweiten einer Idee (Objekte)
+  - z.B.: zusätzliche Produktionsanlagen bauen, neue Märkte erschließen
+- **Forschung:** z.B. Trial and Error
+- **Entwicklung:** z.B. Rennrad als Weiterentwicklung des "normalen" Fahrrads
+
+#### ausstattungsbezogene Projektarten
+
+- **personell:** eine/mehrere Personen
+- **Vollzeit:** begrenzte hauptamtliche Tätigkeit
+- **Teilzeit:** parallel zur derzeitigen Tätigkeit
+
+#### trägerbezogene Projektarten
+
+- **eigene Projekte:** im eigenen Unternehmen
+- **fremde Projekte:** für ein anders Unternehmen bzw. durch ein anderes Unternehmen
+- **Mischprojekte:** eigene und fremde Kräfte wirken gemeinsam
+
+#### funktionsbezogene Projektarten
+
+- **Materialwirtschaft:** Supply Chain Management (bspw.: Schreiner muss Holz beschaffen)
+- **Fertigung:** ein Projekt zur Optimierung der Produktion (bspw. energiersparenderer Prozess)
+- **Marketing** (Preis-, Verteilungs- Produkt-, Kommunikationspolitik)
+- **Verwaltung:** Umstellung von Fax auf ein Vorgangsbearbeitungssystem (Echtzeitsystem)
+- **beliebige Kombination**
+
+### Abschnitte des Gesamtprozesses der Projektumsetzung
+
+- **Prozessvorbereitung**
+- **Projektplanung**
+- **Projektgestaltung**
+- **Projekteinführung**
+
+### Methoden zum Finden von Fehlern/Problemen
+
+- **Ishikawa** (Ursache-Wirkungs-Diagramm) (7M!)
+- **FMEA** (Formblatt mit Punktesystem)
+
+### Kreativtechniken zum Entwickeln von Ideen
+
+- Brainstorming
+- Brainwriting (mit 635 Methode)
+- Morphologischer Kasten (Konfigurator)
+- Mindmapping (graphische Darstellung von Sachverhalten)
+- Bionic (Inspiration für die Problemlösung in der Natur suchen)
+
+> min. drei kennen!
+
+### Anforderungen an einen Projektleiter
+
+- fachliche, soziale, methodische Kompetenzen
+- Führungskompetenzen (Methoden der Führung)
+
+### Spannungsfeld eines Projektes
+
+> Spannungsdreieck aus: **Qualität**, **Zeit** und **Kosten**
+
+### Phasen der Gruppenentwicklung
+
+- **Forming:** Kennenlernen, Zusammenstellung
+- **Storming:** Rangordnung, Rollen festlegen
+- **Norming:** Qualität und Quantität oder Aufgabenerfüllung
+- **Performing:** Doing, Erfüllung, höchste Leistungsfähigkeit
+- **Adjouring:** Verabschieden, Auflösung
+
+### Institutionen zur Unterstützung eines Projektes
+
+- **Fachausschuss:** **Kontrollorgan** zur fachlichen Beurteilung der erbrachten Leistung (quantitative und qualitative Beurteilung)
+- **Lenkungskollegium:** **Koordination und Unterstützung** (besonders für finanzielle und materielle Bedürfnisse des Projektteams)
+- **Lenkungsausschuss:** **Schnittstelle zwischen Führungskräften**
+
+> $\rightarrow$ können vom Projektleiter als Unterstützer angefordert werden, für Dinge die das Team nicht selbst ausführen kann
+> $\rightarrow$ hat der Projektleiter diese Dinge zur Verfügung, sinkt das Risiko, dass das Projekt scheitert
+
+### Organisationsformen der Struktur einer Projektgruppe
+
+- **Reine Projektgruppe:** teilautonome Gruppen
+- **Linien-Projektgruppe::** innerhalb der Organisation direkt unterstellt
+- **Stabs-Projekt-Organisation:** ein Koordinator greift auf meist Teilzeit festgelegte MA zu
+- **Matrix-Projekt-Organisation:** eine der Geschäftsleitung direkt unterstellte Projektgruppe
+
+> Formen können bei Bedarf auch gemischt werden
+
+### Einflussfaktoren Faktoren auf die Entwicklung eines Projektes
+
+**Erfolg**
+
+- **Förderung** durch das Topmanagement
+- "gutes" **Projektteam** (Mitarbeiter müssen die üblichen Anforderungen erfüllen)
+- Einsatz der **Methoden** (Zeit, materielle und personelle Potentiale)
+
+**Misserfolg**
+
+- **Konflikte** innerhalb und außerhalb des Projektteams (Ursache - Führung)
+- **Zieländerungen** während des laufenden Projektes
+- **mangelnde Führungskompetenz** des Projektleiters
+- **Erfolgsdruck**
+
+### Knotennetzplan berechnen
+
+- **Vorwärtskalkulation:** größter `FEZ` der Vorgänger wird `FAZ`; `FEZ` = `FAZ` + `Dauer`
+- **Rückwärtskalkulation:** `SEZ` wird kleinster `SAZ` der Nachfolger; `Puffer` = `FAZ` - `SAZ` bzw. `FEZ` - `SEZ`
+
+> **Kritischer Weg:** Knoten ohne Pufferzeiten
+
+### Elemente eines Planungsergebnisses
+
+- Projektplan
+- Planungsbericht
+- Projektantrag
+- Projektauftrag
+- Projektvergabe
+- Förderungsmittelantrag
+
+### Phasen der Projektfinding
+
+- **Zielbildung:** aktive oder reaktive Prozesse
+- **Problemanalyse:** Ishikawa, FMEA, ...
+- **Alternativen:** Kreativitätstechniken
+- **Prognose:** Szenario-Analyse, Extrapolation
+- **Bewertung:** Nutzwertanalyse, Kosten-/Nutzenrechnung, BSC
+
+### Phasen des Projektablaufs
+
+- **Start:** Kick off, **Informieren** aller betroffenen Mitarbeiter
+- **Definition:** **Ziel und Aufgabe** definieren (SMART, 5-W-Regel, **Muss-, Soll-, Kann-Ziele**)
+- **Planung:** **Koordination**, **Entscheidung** zur Durchführung, **Überprüfung** der Vollständigkeit aller Informationen
+- **Umsetzung:** **Realisierung** der Arbeiten, **Controlling** der Vorgänge und Meilensteine
+- **Bewertung:** **Abrechnung** der Arbeiten, **Dokumentation** (Nutzen, Aufwand, Verbesserungen, ...)
+
+### SWOT-Analyse
+
+|          | *intern* | Stärken                                        | Schwächen                                      |
+| -------- | -------- | ---------------------------------------------- | ---------------------------------------------- |
+| *extern* |          | ...                                            | ...                                            |
+| Chancen  | ...      | Ergebnisse, Lösungen, Umgang mit der Situation | Ergebnisse, Lösungen, Umgang mit der Situation |
+| Risiken  | ...      | Ergebnisse, Lösungen, Umgang mit der Situation | Ergebnisse, Lösungen, Umgang mit der Situation |
+
+### Nutzwertanalyse
+
+> Fragen mit Punkten bewerten $\rightarrow$ zusammenrechnen
+
+### Risiken eines Projektes
+
+- Personalprobleme
+- Kostenentwicklung
+- Gesetzgebung
+- Neue Technik/Technologie
+- Umweltstandards
+
+### Führungsarten, Führungsstile und Führungstechniken
+
+#### Führungsarten
+
+- Motivation
+- Aufgaben
+- Ziele
+
+#### Führungsstile
+
+- autoritär
+- kooperativ
+- Laissez Faire
+
+#### Führungstechniken
+
+- Management by Objective (MbO) $\rightarrow$ Ziele $\rightarrow$ Vereinbarung $\rightarrow$ kooperativ
+- Management by Question (MbQ) $\rightarrow$ Fragen
+- Management by Delegation (MbD) $\rightarrow$ Aufgaben übergeben
+- Management by Results (MbR) $\rightarrow$ Ziele $\rightarrow$ Anordnung $\rightarrow$ autoritär
+
+### Elemente des Projektcontrollings
+
+- Projektplanung
+- Projektkontrolle
+- Information/Dokumentation
+- Projektsteuerung
 
 ## Qualitätsmanagement
 
